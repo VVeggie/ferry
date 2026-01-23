@@ -1,4 +1,4 @@
-FROM golang:1.14
+FROM golang:1.26rc2
 
 WORKDIR /opt/ferry
 
